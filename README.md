@@ -20,13 +20,13 @@ samples, guidance on mobile development, and a full API reference.
 Here are some images used in the project:
 
 ### Image 1
-![img1](../screen/assets/img1.jpg)
+![img1](assets/img1.png)
 
 ### Image 2
-![img2](../screen/assets/img2.jpg)
+![img2](assets/img2.png)
 
 ### Image 3
-![img3](../screen/assets/img3.jpg)
+![img3](assets/img3.png)
 
 ### Image 4
-![img4](../screen/assets/img4.jpg)
+![img4](assets/img4.png)
