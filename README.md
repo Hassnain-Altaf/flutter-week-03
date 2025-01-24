@@ -20,13 +20,13 @@ samples, guidance on mobile development, and a full API reference.
 Here are some images used in the project:
 
 ### Image 1
-<img src="assets/img1.jpg" width="300" height="200">
+<img src="assets/img1.jpg" width="300" height="500">
 
 ### Image 2
-<img src="assets/img2.jpg" width="300" height="200">
+<img src="assets/img2.jpg" width="300" height="500">
 
 ### Image 3
-<img src="assets/img3.jpg" width="300" height="200">
+<img src="assets/img3.jpg" width="300" height="500">
 
 ### Image 4
-<img src="assets/img4.jpg" width="300" height="200">
+<img src="assets/img4.jpg" width="300" height="500">
